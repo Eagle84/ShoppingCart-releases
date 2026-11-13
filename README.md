@@ -11,7 +11,3 @@ Signed Android builds of **ShoppingCart**, a shared shopping list for a family. 
 ## Updates
 
 The app checks this repository for a newer release when it starts (at most every 6 hours) and from the menu on the lists screen ("בדיקת עדכונים"). It shows the release notes, downloads the new APK and asks Android to install it. Android only accepts the update if it is signed with the same key as the installed app.
-
-## Access
-
-Installing the app does not give access to anyone's lists. The data is protected by the account allowlist in the app's backend.
